@@ -1,6 +1,6 @@
 - 👋 Hi, I’m June
 - 👀 I’m interested in Data analysis, especially in Finance area.
-- 🌱 I’m currently learning ML/DL/Database Engineering.
+- 🌱 I’m currently learning ML/Time Series Analysis/Database Engineering.
 - 💞️ I’m looking to collaborate on Finance-related customer data analysis.
 - 📫 Mail me freely: frommillersplanet@gmail.com
 - 😄 Pronouns: she
