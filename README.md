@@ -1,4 +1,4 @@
-👋 Hi, I’m June!
+### Hello World, I'm June!
 
 -  Passionate about Data Analysis, with a focus on the Finance sector, especially customer-related data.
 -  Currently exploring ML, Time Series Analysis, and Database Engineering.
