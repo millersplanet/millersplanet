@@ -2,7 +2,7 @@
 
 -  Passionate about Data Analysis, with a focus on the Finance sector, especially customer-related data.
 -  Currently exploring ML, Time Series Analysis, and Database Engineering.
--  Recently found out I'm also interested in FE... working on 🚴‍♂️🏋️‍♂️🏊‍♂️🤸‍♂️🏃‍♂️
+-  Recently discovered a newfound interest in Front-End Development. Working hard 🏋️‍♂️
 -  📫 Feel free to reach out: frommillersplanet@gmail.com
 
 <!---
