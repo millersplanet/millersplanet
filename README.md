@@ -2,7 +2,7 @@
 
 -  Studied Data Analysis, with a focus on behavioral data.
 -  Learned and applied ML, Time Series Analysis, Data Pipelines & ETL.
--  Recently discovered a newfound interest in Front-End Development. Working hard 🏋️‍♂️
+-  Discovered a passion in Front-End Development. Working hard ever since 🏋️‍♂️
 -  📫 Feel free to reach out: frommillersplanet@gmail.com (preferred) or trj501@snu.ac.kr
 -  always ready to connect on a universal level 👽
 
